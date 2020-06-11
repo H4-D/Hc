@@ -1,4 +1,4 @@
-## fbbrute.py - Facebook Brute Force
+## H4.py - Facebook Brute Force
 # -*- coding: utf-8 -*-
 ##
 import os
@@ -10,19 +10,19 @@ API_SECRET = "62f8ce9f74b12f84c123cc23437a4a32"
 
 __banner__ = """
        +=======================================+
-       |..........Facebook Cracker v 1.........|
+       |.........Facebook Cracker v 2 .........|
        +---------------------------------------+
        |#Author: DedSecTL <dtlily>             |
        |#Contact: Telegram @dtlily             |
-       |#Date: Fri Feb 8 10:15:49 2019         |
-       |#This tool is made for pentesting.     |
+       |#Date: Fri June 8 20:13:49 2020         |
+       |#This tool is made for AMIR-NIAZ .     |
        |#Changing the description of this tool |
        |Won't made you the coder ^_^ !!!       |
        |#Respect Coderz ^_^                    |
        |#I take no responsibilities for the    |
        |  use of this program !                |
        +=======================================+
-       |..........Facebook Cracker v 1.........|
+       |..........Facebook Cracker v 2.........|
        +---------------------------------------+
 """
 
